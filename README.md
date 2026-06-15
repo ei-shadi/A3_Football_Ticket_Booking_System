@@ -10,9 +10,7 @@ A complete relational database project for managing football match ticket bookin
 
 ### ERD Diagram
 
-> 📌 Replace the link below with your public Draw.io or Lucidchart ERD link.
-
-🔗 **ERD Link:** `https://your-erd-link-here`
+🔗 **ERD Link:** `https://drive.google.com/file/d/1RiOCLhcjqi7HxWl_lt-8MeuO0icF6Q0n/view?usp=sharing`
 
 ---
 
