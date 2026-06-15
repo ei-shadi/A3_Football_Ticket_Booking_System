@@ -6,11 +6,9 @@ A complete relational database project for managing football match ticket bookin
 
 ---
 
-## 📷 Project Preview
-
 ### ERD Diagram
 
-🔗 **ERD Link:** [View ERD Diagram](https://drive.google.com/file/d/1RiOCLhcjqi7HxWl_lt-8MeuO0icF6Q0n/view?usp=sharing)
+🔗 [View ERD Diagram](https://drive.google.com/file/d/1RiOCLhcjqi7HxWl_lt-8MeuO0icF6Q0n/view?usp=sharing)
 ---
 
 ## ✨ Project Overview
