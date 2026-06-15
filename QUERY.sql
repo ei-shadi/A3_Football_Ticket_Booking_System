@@ -83,3 +83,19 @@ ON
 
 
 
+-- =========================================================================
+-- QUERY-06: Find all ticket bookings where the total cost is strictly higher 
+-- than the average cost of all ticket bookings.
+-- =========================================================================
+SELECT 
+    booking_id, 
+    match_id, 
+    ROUND(total_cost) AS total_cost
+FROM 
+    bookings
+WHERE 
+    total_cost > (SELECT AVG(total_cost) FROM bookings);
+
+
+
+
