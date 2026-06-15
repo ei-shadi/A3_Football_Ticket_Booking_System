@@ -66,4 +66,20 @@ ON
  b.match_id = m.match_id;
 
 
+-- =========================================================================
+-- QUERY-05: Display a comprehensive list of all users and their booking IDs, 
+-- ensuring that fans who have never bought a ticket are still listed.
+-- =========================================================================
+SELECT 
+  u.user_id, 
+  full_name, 
+  booking_id
+FROM 
+  users AS u
+FULL JOIN 
+  bookings AS b 
+ON 
+  u.user_id = b.user_id;
+
+
 
